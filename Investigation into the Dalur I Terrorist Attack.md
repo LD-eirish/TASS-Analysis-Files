@@ -23,7 +23,7 @@ Following the catastrophic terrorist attack on Dalur I, the Tibarit Agency for S
 
 2. **Potential Smuggling Routes:**
    - **Intelligence Indications:** Preliminary evidence suggests the thermonuclear device may have been smuggled via the ACASEN Economic Zone Trade Routes.
-   - **Transit Hypothesis:** It is assessed with moderate confidence that the device transited through Khell'Zen, an Ek'terite ally, into the Caeri Space exploiting trade routes within the ACASEN Economic Zone to circumvent standard security protocols. Satellite imagery and signal intercepts indicate unusual activity along these routes in the weeks preceding the attack.
+   - **Transit Hypothesis:** It is assessed with moderate confidence that the device transited through Khell'Zen, an Ek'terite ally, into the Caeri Space exploiting trade routes within the ACASEN Economic Zone to circumvent standard security protocols. Satellite imagery and signal intercepts indicate unusual activity along these routes in the weeks preceding the attack. By shipping into the Caeri Space our trade blockage on the Khell'Zen Border has been avoided.
 
 3. **Border Vulnerabilities:**
    - **Security Concerns:** The open borders between Caeroi territory and the Tibarit Socialist Republic (TSR) present significant vulnerabilities. These may have been exploited to facilitate the undetected movement of the device into TSR territory. Reports from border patrols indicate gaps in surveillance coverage during the suspected transit period.
