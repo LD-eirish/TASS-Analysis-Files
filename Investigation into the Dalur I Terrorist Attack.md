@@ -26,7 +26,7 @@ Following the catastrophic terrorist attack on Dalur I, the Tibarit Agency for S
    - **Transit Hypothesis:** It is assessed with moderate confidence that the device transited through Khell'Zen, an Ek'terite ally, exploiting trade routes within the ACASEN Economic Zone to circumvent standard security protocols. Satellite imagery and signal intercepts indicate unusual activity along these routes in the weeks preceding the attack.
 
 3. **Border Vulnerabilities:**
-   - **Security Concerns:** The porous borders between Caeroi territory and the Tibarit Socialist Republic (TSR) present significant vulnerabilities. These may have been exploited to facilitate the undetected movement of the device into TSR territory. Reports from border patrols indicate gaps in surveillance coverage during the suspected transit period.
+   - **Security Concerns:** The open borders between Caeroi territory and the Tibarit Socialist Republic (TSR) present significant vulnerabilities. These may have been exploited to facilitate the undetected movement of the device into TSR territory. Reports from border patrols indicate gaps in surveillance coverage during the suspected transit period.
 
 4. **Technical Analysis:**
    - **Device Specifications:** Analysis of the thermonuclear device remnants indicates it was of Ek'terite design, similar to models previously documented in their military arsenals. However, serial numbers and manufacturing marks have been obliterated, suggesting an effort to remove identifying features.
