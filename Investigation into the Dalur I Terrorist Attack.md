@@ -29,7 +29,7 @@ Following the catastrophic terrorist attack on Dalur I, the Tibarit Agency for S
    - **Security Concerns:** The open borders between Caeroi territory and the Tibarit Socialist Republic (TSR) present significant vulnerabilities. These may have been exploited to facilitate the undetected movement of the device into TSR territory. Reports from border patrols indicate gaps in surveillance coverage during the suspected transit period.
 
 4. **Technical Analysis:**
-   - **Device Specifications:** Analysis of the thermonuclear device remnants indicates it was of DIY design, although some parts similar to parts previously documented in Ek'terite weaponry. However, serial numbers and manufacturing marks have been obliterated, suggesting an effort to remove identifying features.
+   - **Device Specifications:** Analysis of the thermonuclear device remnants indicates it was of DIY design, although some parts similar to parts previously documented in Ek'terite weaponry. However, serial numbers and manufacturing marks have either been obliterated during the incident or removed prior to the explosion.
    - **Cyber Footprint:** Digital forensics have uncovered encrypted communications linked to known Ek'terite operatives, although the messages themselves remain undeciphered.
 
 ---
