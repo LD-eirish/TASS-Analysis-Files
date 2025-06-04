@@ -22,7 +22,7 @@ Following the catastrophic terrorist attack on Dalur I, the Tibarit Agency for S
    - **Assessment:** Interrogations have yielded limited actionable intelligence. Detainees maintain ignorance regarding the attack, complicating efforts to establish direct links to the Ek'terite Commonwealth. Enhanced interrogation techniques have been authorized but have yet to produce substantial leads.
 
 2. **Potential Smuggling Routes:**
-   - **Intelligence Indications:** Preliminary evidence suggests the thermonuclear device may have been smuggled via the ACASEN Economic Zone, a complex network of trade routes known for minimal oversight.
+   - **Intelligence Indications:** Preliminary evidence suggests the thermonuclear device may have been smuggled via the ACASEN Economic Zone Trade Routes.
    - **Transit Hypothesis:** It is assessed with moderate confidence that the device transited through Khell'Zen, an Ek'terite ally, exploiting trade routes within the ACASEN Economic Zone to circumvent standard security protocols. Satellite imagery and signal intercepts indicate unusual activity along these routes in the weeks preceding the attack.
 
 3. **Border Vulnerabilities:**
