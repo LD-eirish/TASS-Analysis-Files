@@ -11,18 +11,18 @@
 
 ### EXECUTIVE SUMMARY
 
-Following the catastrophic terrorist attack on Dalur I, the Tibarit Agency for State Security (TASS) has conducted an extensive investigation. Recent developments have shed new light on the origins and nature of the attack, which resulted in significant casualties and involved a thermonuclear device, indicating a high level of sophistication and coordination.
+Following the catastrophic terrorist attack on Dalur I, the Tibarit Agency for State Security (TASS) has conducted an extensive investigation. Recent developments have significantly advanced our understanding of the attack, which resulted in substantial casualties and involved a thermonuclear device, indicating a high level of sophistication and coordination. The TASS is now 95% certain of the Ek'terite Government's involvement in the attack.
 
 ---
 
 ### KEY INTELLIGENCE FINDINGS
 
 1. **Arrests and Interrogations:**
-   - **Status:** Multiple individuals of Ek'terite descent have been detained nationwide.
-   - **Assessment:** Enhanced interrogations have yielded critical intelligence. Detainees have admitted to links with the Ek'terite Government, suggesting a coordinated effort and potential state-level involvement in the attack. This admission marks a significant shift in our understanding of the attack's origins and the potential direct involvement of the Ek'terite Government.
+ - **Status:** Multiple individuals of Ek'terite descent have been detained nationwide.
+ - **Assessment:** Enhanced interrogations have yielded critical intelligence. Detainees have admitted to direct links with the Ek'terite Government, suggesting a coordinated effort and high-level state involvement in the attack. This admission, combined with corroborating evidence, has led the TASS to conclude with 95% certainty that the Ek'terite Government played a significant role in orchestrating the Dalur I attack.
 
 2. **Technical Analysis:**
-   - **Device Specifications:** Comprehensive analysis of the thermonuclear device remnants indicates that while the bomb exhibits characteristics of Ek'terite design, it also includes other unidentifiable parts. This suggests a complex assembly process, potentially involving multiple sources or advanced modifications to existing Ek'terite weaponry. The inclusion of these unidentifiable parts complicates the direct attribution to Ek'terite manufacturing but underscores the sophistication of the device.
+ - **Device Specifications:** Comprehensive analysis of the thermonuclear device remnants indicates that while the bomb exhibits characteristics of Ek'terite design, it also includes other unidentifiable parts. This suggests a complex assembly process, potentially involving multiple sources or advanced modifications to existing Ek'terite weaponry. The inclusion of these unidentifiable parts complicates the direct attribution to Ek'terite manufacturing but underscores the sophistication of the device.
 
 ---
 
